@@ -1,0 +1,5 @@
+c1|11|8000|Clerk
+p1|11|25000|Programmer
+m1|33|80000|Manager
+c2|66|8000|Clerk
+p2|21|25000|Programmer
